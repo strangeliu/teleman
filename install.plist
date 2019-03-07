@@ -11,19 +11,37 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://dy.qmwgame.com/down/hnmj.ipa</string>
+					<string>http://teleman.io/download/Teleman-1.0.0-2019-03-07-15-00-06.ipa</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>http://teleman.io/download/app_icon_1024.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>http://teleman.io/download/app_icon_170.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.kele.qipai</string>
+				<string>com.xxs.teleman</string>
 				<key>bundle-version</key>
-				<string>1.6.0</string>
+				<string>1.0.0</string>
 				<key>kind</key>
 				<string>software</string>
+				<key>subtitle</key>
+				<string>install app</string>
 				<key>title</key>
-				<string>全民玩麻将下载 </string>
+				<string>Teleman</string>
 			</dict>
 		</dict>
 	</array>
