@@ -1,4 +1,4 @@
 .DS_Store
-upload.py
-updateSSH.py
-updatePlist.py
+*.py
+*.pem
+*.ipa
